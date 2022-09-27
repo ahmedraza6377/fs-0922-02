@@ -1,0 +1,43 @@
+public class Main {
+    public static void main(String[] args) {
+//         Q.1
+       System.out.println("Hello I am enjoy coding/n");
+        
+//         Q.2
+        System.out.println("Hello");
+        System.out.println("I");
+        System.out.println("am");
+        System.out.println("enjoy");
+        System.out.println("coding");
+//         Q.3
+       
+        System.out.println(100+3+8);
+        System.out.println(100*3*8);
+//         Q.4
+        System.out.println(100-40);
+//         Q.5
+        System.out.println("*****");
+        System.out.println("*****");
+        System.out.println("*****");
+        System.out.println("*****");
+        System.out.println("*****");
+        System.out.println("*****/n");
+//         Q.6
+        System.out.println("*   *");
+        System.out.println("*   *");
+        System.out.println("*   *");
+        System.out.println("*   *");
+        System.out.println("*   *");
+        System.out.println("*****/n");
+//         Q.7
+        System.out.println(987653%10);
+//         Q.8
+        int m=15,n=4;
+        System.out.println(m+n);
+        System.out.print(m-n+" ");
+        System.out.println(m*n);
+        
+        
+        
+    }
+}
